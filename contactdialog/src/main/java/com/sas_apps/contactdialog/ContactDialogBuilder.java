@@ -20,7 +20,7 @@ public class ContactDialogBuilder {
     private Drawable imageDrawable;
     private String name, subText, option1Text, option2Text;
 
-    ContactDialogBuilder(Context context) {
+    public ContactDialogBuilder(Context context) {
         this.context = context;
     }
 
