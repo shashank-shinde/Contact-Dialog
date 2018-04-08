@@ -10,7 +10,7 @@ Android dialog library which can be used to show quick profile preview.
 # Setup
  `minSdkVersion ` `21` or ablove 
  
-#### Step 1 Add the JitPack repository to your build file:
+#### Step 1: Add the JitPack repository to your build file:
  
  ```gradle
 allprojects {
@@ -21,7 +21,7 @@ allprojects {
 }
 ```
 
-#### Step 2 Add the dependency:
+#### Step 2: Add the dependency:
 
  ```
 dependencies {
